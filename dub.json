@@ -1,0 +1,7 @@
+{
+	"name": "icmp",
+	"description": "An ICMP Library",
+	"authors": [ "jonathanwilbur" ],
+	"license": "ISC",
+	"targetType": "library"
+}
